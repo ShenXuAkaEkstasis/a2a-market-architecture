@@ -1,0 +1,16 @@
+title: A2A Market Architecture
+description: Researching how commerce changes when AI agents become active market participants.
+author: Shen Xu
+url: https://shenxuakaekstasis.github.io
+baseurl: /a2a-market-architecture
+
+# GitHub Pages / Jekyll
+markdown: kramdown
+theme: minima
+
+# Site metadata
+lang: en
+repository: ShenXuAkaEkstasis/a2a-market-architecture
+
+# Social / research identity
+name: Shen Xu
