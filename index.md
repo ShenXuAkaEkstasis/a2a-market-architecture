@@ -1,3 +1,8 @@
+---
+layout: default
+title: A2A Market Architecture
+description: Researching how commerce changes when AI agents become active market participants.
+---
 # A2A Market Architecture
 
 **Researching how commerce changes when AI agents become active market participants.**
