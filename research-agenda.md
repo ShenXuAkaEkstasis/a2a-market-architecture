@@ -1,3 +1,9 @@
+---
+layout: default
+title: "A2A Market Architecture: A Research Agenda for Commerce in an Agent-Mediated Economy"
+description: A research agenda for understanding commerce and market structure when AI agents become active market participants.
+---
+
 # A2A Market Architecture: A Research Agenda for Commerce in an Agent-Mediated Economy
 
 **Shen Xu**
