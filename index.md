@@ -1,167 +1,60 @@
 ---
 layout: default
-title: A2A Market Architecture
-description: Researching how commerce changes when AI agents become active market participants.
+title: Agentic Commerce Market Architecture
+description: Shen Xu's research framework connecting Decision Authority Economy, Agentic Search Optimization and A2A Commerce.
 ---
-# A2A Market Architecture
+# Agentic Commerce Market Architecture
 
-**Researching how commerce changes when AI agents become active market participants.**
+**A unified research framework for decision authority, agent-mediated discovery and commerce.**
 
-A2A Market Architecture is an open research framework developed by **Shen Xu** to study how markets, merchants, platforms, channels, and commercial infrastructure change as AI agents increasingly participate in discovery, evaluation, coordination, negotiation, and transactions.
+**Shen Xu (徐慎)** · Working version 1.0 · October 2026
 
-This project focuses on the commercial and market-structure layer of agentic commerce rather than the internal algorithms of individual AI systems.
+AI agents are becoming participants in commercial discovery, evaluation, selection and execution. This research investigates how those capabilities change the allocation of **decision authority**, the conditions for **market participation**, and the structure of **commercial interactions**.
 
----
+## The research architecture
 
-## Core Research Question
+| Research area | Central question | Explore |
+| --- | --- | --- |
+| **Decision Authority Economy (DAE)** | Who can decide and act, under what mandate and accountability? | [Decision Authority](decision-authority.md) |
+| **Agentic Search Optimization (ASO)** | Can agents discover, understand, verify, qualify, select and act on offerings? | [ASO six-dimension framework](agentic-search.md) |
+| **A2A Commerce** | How do agents and other economic participants interact across markets? | [A2A Market Architecture](a2a-commerce.md) |
 
-> **How does commerce change when AI agents participate directly in markets?**
+[**Read the unified framework →**](framework.md)
 
-For most of the digital era, commerce infrastructure assumed that humans would discover, compare, decide, and transact.
+These are three related analytical lenses, not a claim that every agentic commerce system implements the same architecture.
 
-As AI agents begin to perform more of these functions, businesses may need to operate across two parallel environments:
-
-**Human-facing commerce**
-and
-**Agent-mediated commerce**
-
-The transition raises questions about interfaces, distribution, merchant architecture, commercial data, trust, transactions, attribution, and market power.
-
----
-
-## Research Framework
-
-The project currently examines six connected areas:
-
-### Market Structure
-
-How do buyer agents, seller agents, merchants, platforms, marketplaces, payment providers, and infrastructure providers interact in an A2A market?
-
-### Merchant Architecture
-
-What does a business need to expose when its commercial audience includes AI agents?
-
-### Discovery and Distribution
-
-What happens when commerce moves from traffic allocation toward agent-mediated demand allocation?
-
-### Commercial State
-
-How should pricing, inventory, availability, delivery conditions, service capabilities, and transaction constraints become machine-accessible?
-
-### Transactions
-
-What infrastructure allows agents to move from discovery and evaluation to authorization, payment, fulfillment, and post-purchase operations?
-
-### Market Economics
-
-Who owns the customer, controls demand, receives attribution, captures commissions, and gains bargaining power in an agent-mediated market?
-
----
-
-## Research Progression
-
-A central working model in this project is:
+## From visibility to market participation
 
 **Discoverable → Interpretable → Eligible → Transactable → Operable**
 
-This distinguishes basic AI visibility from actual participation in an A2A market.
+An AI system may identify a merchant without being able to validate its claims, assess eligibility, or perform an authorized transaction. The difference between mere visibility and meaningful market participation remains a central research concern.
 
-A business may be visible to an AI system without being sufficiently structured, verifiable, or actionable for an agent to transact with it.
+## Research outputs
 
----
+- [Unified Research Framework](framework.md) — key definitions and relationships.
+- [Decision Authority Economy](decision-authority.md) — authority, permission, accountability and agent memory.
+- [Agentic Search Optimization](agentic-search.md) — six-dimensional evaluation and open-source implementation.
+- [A2A Commerce](a2a-commerce.md) — merchant architecture, market structure and transaction systems.
+- [Selected Research and Publications](publications.md) — books, research and curated community technical writing.
 
-## Current Research
+## Origin and evolution
 
-### Research Agenda
+This repository began in **September 2026** as *A2A Market Architecture*, with a research agenda covering commercial interfaces, demand allocation, transaction readiness and market economics. The [original research agenda](research-agenda.md) is retained unchanged for historical clarity, alongside the repository's commit history.
 
-**A2A Market Architecture: A Research Agenda for Commerce in an Agent-Mediated Economy**
+The October 2026 v1.0 working revision integrates the author's wider work on DAE and ASO. See [Changelog](CHANGELOG.md).
 
-The first research note defines the scope of the project, the initial research questions, and the methodology.
+## Research scope and limitations
 
-[Read the Research Agenda](research-agenda.md)
+The framework is an evolving set of research hypotheses and applied models, not a ratified industry standard. References to protocols or third-party technologies provide context rather than endorsement. Community publishing by the author is not, on its own, independent validation.
 
----
+## Author and citation
 
-## Research Topics
+**Shen Xu (徐慎)** is an AI and commercial strategy researcher focusing on agentic commerce, agentic search and decision authority.
 
-Planned and ongoing research includes:
+Suggested citation: **Xu, Shen. “Agentic Commerce Market Architecture: Unified Research Framework.” Working version 1.0, October 2026.** [Framework](framework.md).
 
-* A2A Market Architecture
-* From Human Interfaces to Agent Interfaces
-* Agent-Mediated Demand Allocation
-* Machine-Readable Commercial State
-* Agentic Merchandising
-* Merchant Readiness for Agentic Commerce
-* AI Visibility vs. A2A Market Participation
-* Attribution Collapse in A2A Markets
-* Buyer Agents and Seller Agents
-* A2A Market Economics
-* Trust, Identity, and Verification
-* Agent-Mediated Transactions
-* The Future of Marketplaces and Distribution
+The [September 2026 original work](research-agenda.md) should be cited separately when referencing the earlier A2A market-architecture research.
 
----
+[Repository](https://github.com/ShenXuAkaEkstasis/a2a-market-architecture) · [ASO open-source project](https://github.com/ShenXuAkaEkstasis/agentic-search-optimization) · [ASO demo](https://aso-framework.vercel.app/)
 
-## Research Question Map
-
-The project will progressively examine questions such as:
-
-* What makes a merchant agent-ready?
-* What commercial information must become machine-readable?
-* What must become machine-actionable?
-* Does every business eventually need an agent interface?
-* How do agents allocate demand?
-* What happens to search, GEO, advertising, marketplaces, and affiliates?
-* What is the machine-readable equivalent of a commercial offer?
-* How do agents verify merchant identity and trust?
-* Who owns the customer in an agent-mediated transaction?
-* Who receives attribution when multiple agents participate?
-* How is market power redistributed between brands, platforms, agents, and infrastructure providers?
-* What does it mean for a business to participate directly in an A2A market?
-
----
-
-## Research Method
-
-The project primarily uses:
-
-* protocol and standards analysis;
-* platform and product observation;
-* market structure analysis;
-* comparative case studies;
-* business experiments;
-* commercial system mapping;
-* longitudinal tracking of emerging agentic commerce infrastructure.
-
-The project does not attempt to infer proprietary model weights or hidden internal ranking mechanisms from external model behavior.
-
----
-
-## About Shen Xu
-
-**Shen Xu (徐慎)** is an AI strategist and researcher focused on AI Visibility, Agentic Search, Decision Authority, Agentic Commerce, and A2A markets.
-
-His current research examines how businesses and markets change as AI agents move from information interfaces toward active commercial participants.
-
----
-
-## Repository
-
-This research is maintained openly on GitHub:
-
-[ShenXuAkaEkstasis/a2a-market-architecture](https://github.com/ShenXuAkaEkstasis/a2a-market-architecture)
-
----
-
-## Citation
-
-Xu, Shen. **“A2A Market Architecture.”** Research framework, Version 0.1, September 2026.
-
----
-
-## License
-
-This work is licensed under the **Creative Commons Attribution 4.0 International License (CC BY 4.0).**
-
-Copyright © 2026 Shen Xu.
+Licensed under [CC BY 4.0](LICENSE). © 2026 Shen Xu.
