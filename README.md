@@ -34,6 +34,7 @@ The [original September 2026 research agenda](research-agenda.md) has **not been
 
 ## Related technical writing
 
+- [AWS Builder Center: How AI Agents Evaluate Information Beyond Retrieval and RAG](https://builder.aws.com/content/3KU5U9dnB1123XlsH04tyxPiqnp/how-ai-agents-evaluate-information-beyond-retrieval-and-rag)
 - [Databricks: Beyond Chat History — Portable Memory and Decision Boundaries](https://community.databricks.com/t5/community-articles/beyond-chat-history-designing-portable-memory-and-decision/td-p/172381)
 - [DEV: Portable AI Agent Memory](https://dev.to/shen_xu/portable-ai-agent-memory-what-should-move-when-users-switch-agents-900)
 
