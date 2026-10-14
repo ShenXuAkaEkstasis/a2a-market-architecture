@@ -27,6 +27,14 @@ Persistent context and preferences can inform a choice, but cannot alone grant p
 - [Beyond Chat History: Designing Portable Memory and Decision Boundaries for Enterprise AI Agents — Databricks Community](https://community.databricks.com/t5/community-articles/beyond-chat-history-designing-portable-memory-and-decision/td-p/172381)
 - [Portable AI Agent Memory: What Should Move When Users Switch Agents? — DEV Community](https://dev.to/shen_xu/portable-ai-agent-memory-what-should-move-when-users-switch-agents-900)
 
-These are the author's technical explorations, not third-party validation of the theory.
+The two articles above are by Shen Xu and should not be presented as independent validation.
+
+## Independent technical follow-up — October 2026
+
+Databricks MVP **gnakan** [replied to the Databricks article](https://community.databricks.com/t5/community-articles/beyond-chat-history-designing-portable-memory-and-decision/m-p/173115#M1825) and published [an independent Unity Catalog policy-check experiment](https://medium.com/lab-notes/unity-catalog-functions-kept-ai-agents-from-acting-on-stale-memory-7d63e15f992b). The author's reported stale-memory outcomes were **54/72** without an enforced check, **6/72** with a check available as a tool, and **0/72** with authorization enforced in application code.
+
+The finding is consistent with this page's distinction between **remembered information** and **current authorization**. It addresses one technical proposition, **not the whole DAE framework**, and should not be presented as peer-reviewed replication or Databricks endorsement.
+
+[Research provenance, experiment summary and source links](independent-research.md)
 
 [Research directory](publications.md)
