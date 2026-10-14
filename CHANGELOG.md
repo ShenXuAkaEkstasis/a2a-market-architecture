@@ -1,6 +1,7 @@
 # Research Framework Changelog
 
 ## v1.0 working revision — October 2026
+- Add independent experimental follow-up by Databricks MVP gnakan (stale-memory authorization), with original article, response, lab notes, reported measurements and explicit scope limits.
 - Connect DAE, ASO and A2A Commerce in a unified research architecture.
 - Add dedicated concept pages and a curated publication directory.
 - Distinguish authored community content from independent research validation.
