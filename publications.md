@@ -29,6 +29,12 @@ This is a curated list. Publication on an author account or community platform s
 - **Databricks Community:** [Beyond Chat History: Designing Portable Memory and Decision Boundaries for Enterprise AI Agents](https://community.databricks.com/t5/community-articles/beyond-chat-history-designing-portable-memory-and-decision/td-p/172381) — memory, portability and decision boundaries.
 - **IBM TechXchange Community:** entry reserved. Add only after the article is publicly accessible; a preview or submitted draft is not listed as published.
 
+## Independent research and experimental follow-ups
+
+- **Databricks MVP gnakan (October 2026):** [*Unity Catalog functions kept AI agents from acting on stale memory*](https://medium.com/lab-notes/unity-catalog-functions-kept-ai-agents-from-acting-on-stale-memory-7d63e15f992b) — an independent experiment following [Shen Xu's Databricks article](https://community.databricks.com/t5/community-articles/beyond-chat-history-designing-portable-memory-and-decision/m-p/172381#M1815). The author reported **54/72** stale-memory actions with no enforced check, **6/72** when a policy-check tool was available, and **0/72** when authorization was enforced in code. [Direct public response](https://community.databricks.com/t5/community-articles/beyond-chat-history-designing-portable-memory-and-decision/m-p/173115#M1825) · [Research lineage and limitations](independent-research.md).
+
+This third-party work addresses the narrow issue of historical memory versus current authorization. It is **not** a peer-reviewed validation of DAE, ASO, A2A Commerce or the entire proposed memory architecture, and does not imply corporate endorsement by Databricks.
+
 ## Extended technical writing
 
 - **DEV Community:** [Portable AI Agent Memory: What Should Move When Users Switch Agents?](https://dev.to/shen_xu/portable-ai-agent-memory-what-should-move-when-users-switch-agents-900) — implementation and design considerations.
