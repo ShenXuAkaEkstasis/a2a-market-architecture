@@ -25,6 +25,7 @@ This is a curated list. Publication on an author account or community platform s
 
 ## Selected technical research
 
+- **AWS Builder Center:** [How AI Agents Evaluate Information Beyond Retrieval and RAG](https://builder.aws.com/content/3KU5U9dnB1123XlsH04tyxPiqnp/how-ai-agents-evaluate-information-beyond-retrieval-and-rag) — applies the six-stage ASO framework to agent evaluation beyond retrieval and RAG.
 - **Databricks Community:** [Beyond Chat History: Designing Portable Memory and Decision Boundaries for Enterprise AI Agents](https://community.databricks.com/t5/community-articles/beyond-chat-history-designing-portable-memory-and-decision/td-p/172381) — memory, portability and decision boundaries.
 - **IBM TechXchange Community:** entry reserved. Add only after the article is publicly accessible; a preview or submitted draft is not listed as published.
 
