@@ -16,6 +16,7 @@ An open, evolving research framework by **Shen Xu (徐慎)** examining how AI ag
 - [Agentic Search Optimization (ASO)](agentic-search.md)
 - [A2A Commerce and market structure](a2a-commerce.md)
 - [Selected research and publications](publications.md)
+- [Independent research & experimental follow-ups](independent-research.md)
 - [Version history](CHANGELOG.md)
 
 ## Core research distinction
@@ -39,6 +40,12 @@ The [original September 2026 research agenda](research-agenda.md) has **not been
 - [DEV: Portable AI Agent Memory](https://dev.to/shen_xu/portable-ai-agent-memory-what-should-move-when-users-switch-agents-900)
 
 IBM TechXchange material will be added only after a public article URL is verified. For the full curated list, see [Publications](publications.md).
+
+## Independent research & experimental follow-ups
+
+**October 2026 — Databricks MVP experiment.** Following [Shen Xu's article on portable agent memory and decision boundaries](https://community.databricks.com/t5/community-articles/beyond-chat-history-designing-portable-memory-and-decision/m-p/172381#M1815), Databricks MVP **gnakan** [responded publicly](https://community.databricks.com/t5/community-articles/beyond-chat-history-designing-portable-memory-and-decision/m-p/173115#M1825) with an [independent Unity Catalog authorization experiment](https://medium.com/lab-notes/unity-catalog-functions-kept-ai-agents-from-acting-on-stale-memory-7d63e15f992b). The experimenter reports **54/72** stale-memory actions without an enforced policy check, **6/72** when a policy-check function was available to the agent, and **0/72** with code-enforced authorization. This supports discussion of a specific memory-versus-authority boundary; it does **not** validate the full DAE framework or constitute Databricks endorsement.
+
+[Full research lineage, findings and scope →](independent-research.md)
 
 ## Attribution
 
