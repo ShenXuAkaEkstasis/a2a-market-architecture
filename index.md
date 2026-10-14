@@ -36,6 +36,15 @@ An AI system may identify a merchant without being able to validate its claims, 
 - [Agentic Search Optimization](agentic-search.md) — six-dimensional evaluation and open-source implementation.
 - [A2A Commerce](a2a-commerce.md) — merchant architecture, market structure and transaction systems.
 - [Selected Research and Publications](publications.md) — books, research and curated community technical writing.
+- [Independent Technical Follow-up](independent-research.md) — third-party experiment on stale agent memory and authorization.
+
+## Independent experimental follow-up · October 2026
+
+Databricks MVP **gnakan** [replied to Shen Xu's research on portable memory and decision boundaries](https://community.databricks.com/t5/community-articles/beyond-chat-history-designing-portable-memory-and-decision/m-p/173115#M1825) with an [independent Unity Catalog experiment](https://medium.com/lab-notes/unity-catalog-functions-kept-ai-agents-from-acting-on-stale-memory-7d63e15f992b). In 72 stale-memory requests, the author reported **54** incorrect actions without an enforced current-policy check, **6** when the check was available as an agent tool, and **0** when authorization was enforced in code.
+
+This is a third-party technical examination of the **memory ≠ permission to act** distinction, not validation of the complete DAE framework or a Databricks corporate endorsement.
+
+[Read the original article, independent experiment, and evidence record →](independent-research.md)
 
 ## Origin and evolution
 
