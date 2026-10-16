@@ -53,6 +53,9 @@ This third-party work addresses the narrow issue of historical memory versus cur
 - **DEV Community:** [Portable AI Agent Memory: What Should Move When Users Switch Agents?](https://dev.to/shen_xu/portable-ai-agent-memory-what-should-move-when-users-switch-agents-900) — implementation and design considerations.
 
 ## Attribution and evidence
+See also [Technical Contributions & Agent Ecosystem](technical-contributions.md) and [Awards, Recognition & Media Coverage](recognition-and-media.md).
+
+
 
 For attribution, identify the **specific named framework, dated publication and version**. The use of similar generic language by other authors is not evidence of derivation. Self-authored writing and independent citation should be distinguished.
 
