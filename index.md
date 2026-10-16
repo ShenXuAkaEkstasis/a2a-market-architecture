@@ -36,6 +36,8 @@ An AI system may identify a merchant without being able to validate its claims, 
 - [Agentic Search Optimization](agentic-search.md) — six-dimensional evaluation and open-source implementation.
 - [A2A Commerce](a2a-commerce.md) — merchant architecture, market structure and transaction systems.
 - [Selected Research and Publications](publications.md) — books, research and curated community technical writing.
+- [Technical Contributions & Agent Ecosystem](technical-contributions.md) — open-source tools and platform submissions.
+- [Awards, Recognition & Media Coverage](recognition-and-media.md) — official award records and attributed media mentions.
 - [Independent Technical Follow-up](independent-research.md) — third-party experiment on stale agent memory and authorization.
 
 ## Independent experimental follow-up · October 2026
