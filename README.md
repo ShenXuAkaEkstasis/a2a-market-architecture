@@ -33,6 +33,15 @@ A2A commerce is used here as an economic interaction concept; it is not synonymo
 
 The [original September 2026 research agenda](research-agenda.md) has **not been rewritten**. It preserves the initial scope of A2A market-architecture research and should be cited separately when appropriate.
 
+## Researcher identities and professional profiles
+
+- [ORCID — Shen Xu (0009-0007-6471-2620)](https://orcid.org/0009-0007-6471-2620)
+- [Google Scholar — Shen Xu](https://scholar.google.com/citations?user=h4IUafgAAAAJ)
+- [Thinkers360 — Shen Xu](https://www.thinkers360.com/tl/profiles/view/33319)
+- [ResearchGate — Attribution Collapse under AI-Mediated Decision Systems](https://www.researchgate.net/publication/403997690_Attribution_Collapse_under_AI-Mediated_Decision_Systems_Toward_a_Decision_Authority_Economy) (publication record; verified author-profile URL not yet available)
+
+ResearchGate publication indexing should not be confused with an author-controlled researcher profile. A separate Sci-prefixed profile (possibly Scilit, SciProfiles or SciSpace) remains unverified.
+
 ## Related technical writing
 
 - [SAP Community: Decision Authority in SAP AI Agents — A Procurement Perspective](https://community.sap.com/t5/technology-blog-posts-by-members/decision-authority-in-sap-ai-agents-a-procurement-perspective/ba-p/14503526)
