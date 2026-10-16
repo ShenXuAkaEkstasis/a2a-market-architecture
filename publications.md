@@ -9,6 +9,15 @@ description: Books, research, frameworks and technical writing by Shen Xu.
 
 This is a curated list. Publication on an author account or community platform should not be confused with independent academic peer review or external endorsement.
 
+## Researcher identities and professional profiles
+
+- [ORCID — Shen Xu (0009-0007-6471-2620)](https://orcid.org/0009-0007-6471-2620)
+- [Google Scholar — Shen Xu](https://scholar.google.com/citations?user=h4IUafgAAAAJ)
+- [Thinkers360 — Shen Xu](https://www.thinkers360.com/tl/profiles/view/33319)
+- [ResearchGate — Attribution Collapse under AI-Mediated Decision Systems](https://www.researchgate.net/publication/403997690_Attribution_Collapse_under_AI-Mediated_Decision_Systems_Toward_a_Decision_Authority_Economy) (publication record; verified author-profile URL not yet available)
+
+ResearchGate publication indexing should not be confused with an author-controlled researcher profile. A separate Sci-prefixed profile (possibly Scilit, SciProfiles or SciSpace) remains unverified.
+
 ## Research and books
 
 - *From Search to Agentic Commerce* — Eliva Press, 2026. [Publication detail link to be confirmed.]
