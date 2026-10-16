@@ -25,6 +25,7 @@ This is a curated list. Publication on an author account or community platform s
 
 ## Selected technical research
 
+- **SAP Community:** [Decision Authority in SAP AI Agents: A Procurement Perspective](https://community.sap.com/t5/technology-blog-posts-by-members/decision-authority-in-sap-ai-agents-a-procurement-perspective/ba-p/14503526) — explores decision authority boundaries in enterprise procurement agents.
 - **AWS Builder Center:** [How AI Agents Evaluate Information Beyond Retrieval and RAG](https://builder.aws.com/content/3KU5U9dnB1123XlsH04tyxPiqnp/how-ai-agents-evaluate-information-beyond-retrieval-and-rag) — applies the six-stage ASO framework to agent evaluation beyond retrieval and RAG.
 - **Databricks Community:** [Beyond Chat History: Designing Portable Memory and Decision Boundaries for Enterprise AI Agents](https://community.databricks.com/t5/community-articles/beyond-chat-history-designing-portable-memory-and-decision/td-p/172381) — memory, portability and decision boundaries.
 - **IBM TechXchange Community:** entry reserved. Add only after the article is publicly accessible; a preview or submitted draft is not listed as published.
@@ -37,6 +38,9 @@ This third-party work addresses the narrow issue of historical memory versus cur
 
 ## Extended technical writing
 
+- **Alibaba Cloud Developer Community:** [徐慎 — author profile](https://developer.aliyun.com/profile/wbmctbb4lwe4q) — Chinese-language research and commentary.
+- **Tencent Cloud Developer Community:** [徐慎Ekstasis — main article archive](https://cloud.tencent.com/developer/user/12686874/articles) — ongoing Chinese-language articles on ASO, Decision Authority and Agentic Commerce.
+- **Huawei Cloud Community:** author-profile URL not yet independently verified; intentionally omitted to avoid misattribution.
 - **DEV Community:** [Portable AI Agent Memory: What Should Move When Users Switch Agents?](https://dev.to/shen_xu/portable-ai-agent-memory-what-should-move-when-users-switch-agents-900) — implementation and design considerations.
 
 ## Attribution and evidence
