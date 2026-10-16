@@ -17,10 +17,11 @@ description: Open-source prototypes and agent ecosystem submissions by Shen Xu.
 
 ## Platform contributions — details under verification
 
-The following are contribution channels reported by the author. Direct submission or listing records have not yet been individually verified, so they are not represented as published platform releases.
+The following are contribution channels reported by the author. DeepSeek Harness has a verified public installable listing. Other platform references are labeled according to the available evidence.
 
-- **DeepSeek Harness** — submitted material; exact submission title, URL and publication status to verify.
-- **WorkBuddy Skills** — authored skills; exact public listing and project-specific relationship to the GitHub skills to verify.
+- **DeepSeek Harness — dsh-ai-shopping-assistant** — [public installable plugin listing](https://dsh.pub/en/plugins/dsh-ai-shopping-assistant), version `2.0.1-dsh.2`; [source repository](https://github.com/ShenXuAkaEkstasis/dsh-ai-shopping-assistant). Shopping decision support covering candidate ranking, realizable pricing, merchant/review evidence and source-quality risk.
+- **SkillHub — AI Shopping Assistant** — [public listing URL supplied by the author](https://skillhub.cn/skills/user_59867446/ai-shopping-assistant). The page was not independently retrievable during this update; exact listing metadata and its relationship to WorkBuddy remain unverified.
+- **WorkBuddy Skills** — authored skills; exact WorkBuddy-specific listing to verify.
 - **ClawHub** — submitted skills or packages; exact public listing, author identity and release status to verify.
 
 The research framework and its implementing artifacts remain separate: publishing a skill or submitting to a community is not itself scientific validation of DAE, ASO or A2A Commerce.
