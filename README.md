@@ -16,6 +16,8 @@ An open, evolving research framework by **Shen Xu (徐慎)** examining how AI ag
 - [Agentic Search Optimization (ASO)](agentic-search.md)
 - [A2A Commerce and market structure](a2a-commerce.md)
 - [Selected research and publications](publications.md)
+- [Technical contributions, agent skills and ecosystem submissions](technical-contributions.md)
+- [Awards, recognition and media coverage](recognition-and-media.md)
 - [Independent research & experimental follow-ups](independent-research.md)
 - [Version history](CHANGELOG.md)
 
