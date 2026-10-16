@@ -35,9 +35,17 @@ The [original September 2026 research agenda](research-agenda.md) has **not been
 
 ## Related technical writing
 
+- [SAP Community: Decision Authority in SAP AI Agents — A Procurement Perspective](https://community.sap.com/t5/technology-blog-posts-by-members/decision-authority-in-sap-ai-agents-a-procurement-perspective/ba-p/14503526)
 - [AWS Builder Center: How AI Agents Evaluate Information Beyond Retrieval and RAG](https://builder.aws.com/content/3KU5U9dnB1123XlsH04tyxPiqnp/how-ai-agents-evaluate-information-beyond-retrieval-and-rag)
 - [Databricks: Beyond Chat History — Portable Memory and Decision Boundaries](https://community.databricks.com/t5/community-articles/beyond-chat-history-designing-portable-memory-and-decision/td-p/172381)
 - [DEV: Portable AI Agent Memory](https://dev.to/shen_xu/portable-ai-agent-memory-what-should-move-when-users-switch-agents-900)
+
+### Chinese-language community author profiles
+
+- [Alibaba Cloud Developer Community — 徐慎](https://developer.aliyun.com/profile/wbmctbb4lwe4q)
+- [Tencent Cloud Developer Community — 徐慎Ekstasis (main article archive)](https://cloud.tencent.com/developer/user/12686874/articles)
+
+Huawei Cloud Community author profile: pending verification of the exact public account URL; no unverified link is presented as an author profile.
 
 IBM TechXchange material will be added only after a public article URL is verified. For the full curated list, see [Publications](publications.md).
 
