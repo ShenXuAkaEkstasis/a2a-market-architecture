@@ -16,6 +16,7 @@ An open, evolving research framework by **Shen Xu (徐慎)** examining how AI ag
 - [Agentic Search Optimization (ASO)](agentic-search.md)
 - [A2A Commerce and market structure](a2a-commerce.md)
 - [Selected research and publications](publications.md)
+- [IBM community article — Decision Authority in AI Agents (research note)](notes/2026-10-13-ibm-decision-authority.md)
 - [Technical contributions, agent skills and ecosystem submissions](technical-contributions.md)
 - [Awards, recognition and media coverage](recognition-and-media.md)
 - [Independent research & experimental follow-ups](independent-research.md)
@@ -46,6 +47,7 @@ ResearchGate publication indexing should not be confused with an author-controll
 
 ## Related technical writing
 
+- [IBM TechXchange Community: Decision Authority in AI Agents — Why Context Matters More Than Automation](https://community.ibm.com/community/user/blogs/shen-xu/2026/10/13/decision-authority-in-ai-agents) — October 13, 2026; authored technical community article (not IBM institutional endorsement).
 - [SAP Community: Decision Authority in SAP AI Agents — A Procurement Perspective](https://community.sap.com/t5/technology-blog-posts-by-members/decision-authority-in-sap-ai-agents-a-procurement-perspective/ba-p/14503526)
 - [AWS Builder Center: How AI Agents Evaluate Information Beyond Retrieval and RAG](https://builder.aws.com/content/3KU5U9dnB1123XlsH04tyxPiqnp/how-ai-agents-evaluate-information-beyond-retrieval-and-rag)
 - [Databricks: Beyond Chat History — Portable Memory and Decision Boundaries](https://community.databricks.com/t5/community-articles/beyond-chat-history-designing-portable-memory-and-decision/td-p/172381)
@@ -58,7 +60,7 @@ ResearchGate publication indexing should not be confused with an author-controll
 
 Huawei Cloud Community author profile: pending verification of the exact public account URL; no unverified link is presented as an author profile.
 
-IBM TechXchange material will be added only after a public article URL is verified. For the full curated list, see [Publications](publications.md).
+For the full curated list of verified publications, see [Publications](publications.md).
 
 ## Independent research & experimental follow-ups
 
