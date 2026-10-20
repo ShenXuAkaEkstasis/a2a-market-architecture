@@ -19,6 +19,14 @@ DAE examines how the capacity and legitimacy to make commercial decisions are al
 
 These are proposed analytical distinctions, not a settled external taxonomy. An agent's autonomy label is not evidence of its actual permissions.
 
+## Context, discretion and authority — IBM TechXchange Community (October 2026)
+
+In [*Decision Authority in AI Agents: Why Context Matters More Than Automation*](https://community.ibm.com/community/user/blogs/shen-xu/2026/10/13/decision-authority-in-ai-agents), Shen Xu distinguishes the ability to execute predefined actions from the delegated discretion to interpret competing objectives. Access to contextual evidence is not itself an authorization to disregard an existing instruction. Likewise, a model's judgment about what to do and the authority to take the action must be evaluated separately.
+
+The article illustrates this boundary with subscription renewal and enterprise procurement scenarios, including conflicts among standing permissions, retrieved memories and evolving user goals. Decision Authority is treated as a dynamic relationship among human intent, rules, permissions, context and consequential action—not a single autonomy threshold.
+
+[Structured research note and decision workflow](notes/2026-10-13-ibm-decision-authority.md). This is author-published conceptual technical writing on an IBM community platform, not independent validation or an IBM endorsement.
+
 ## Memory is not authority
 
 Persistent context and preferences can inform a choice, but cannot alone grant permission to purchase, disclose, or execute. Authorization must be scoped and evaluated separately.
