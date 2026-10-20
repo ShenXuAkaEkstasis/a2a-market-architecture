@@ -6,7 +6,7 @@
 - Add dedicated concept pages and a curated publication directory.
 - Distinguish authored community content from independent research validation.
 - Preserve the September 2026 original research agenda and repository history.
-- Leave an IBM article entry pending its verified public URL.
+- Verify the October 13 IBM TechXchange Community article, add its canonical citation and a focused research note connecting decision authority, contextual judgment and Agentic Commerce.
 
 ## v0.1 — September 2026
 Original A2A Market Architecture scope, question map and research agenda. See the unchanged `research-agenda.md` and git history.
