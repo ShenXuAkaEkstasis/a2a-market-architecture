@@ -38,6 +38,7 @@ ResearchGate publication indexing should not be confused with an author-controll
 - **AWS Builder Center:** [How AI Agents Evaluate Information Beyond Retrieval and RAG](https://builder.aws.com/content/3KU5U9dnB1123XlsH04tyxPiqnp/how-ai-agents-evaluate-information-beyond-retrieval-and-rag) — applies the six-stage ASO framework to agent evaluation beyond retrieval and RAG.
 - **Databricks Community:** [Beyond Chat History: Designing Portable Memory and Decision Boundaries for Enterprise AI Agents](https://community.databricks.com/t5/community-articles/beyond-chat-history-designing-portable-memory-and-decision/td-p/172381) — memory, portability and decision boundaries.
 - **IBM TechXchange Community (October 13, 2026):** [Decision Authority in AI Agents: Why Context Matters More Than Automation](https://community.ibm.com/community/user/blogs/shen-xu/2026/10/13/decision-authority-in-ai-agents) — distinguishes automation from delegated decision authority, contextual judgment from permission, and agent memory from binding instructions. [Research note](notes/2026-10-13-ibm-decision-authority.md).
+- **DEV Community:** [Portable AI Agent Memory: What Should Move When Users Switch Agents?](https://dev.to/shen_xu/portable-ai-agent-memory-what-should-move-when-users-switch-agents-900) — implementation and design considerations.
 
 ## Independent research and experimental follow-ups
 
@@ -50,7 +51,6 @@ This third-party work addresses the narrow issue of historical memory versus cur
 - **Alibaba Cloud Developer Community:** [徐慎 — author profile](https://developer.aliyun.com/profile/wbmctbb4lwe4q) — Chinese-language research and commentary.
 - **Tencent Cloud Developer Community:** [徐慎Ekstasis — main article archive](https://cloud.tencent.com/developer/user/12686874/articles) — ongoing Chinese-language articles on ASO, Decision Authority and Agentic Commerce.
 - **Huawei Cloud Community:** author-profile URL not yet independently verified; intentionally omitted to avoid misattribution.
-- **DEV Community:** [Portable AI Agent Memory: What Should Move When Users Switch Agents?](https://dev.to/shen_xu/portable-ai-agent-memory-what-should-move-when-users-switch-agents-900) — implementation and design considerations.
 
 ## Attribution and evidence
 See also [Technical Contributions & Agent Ecosystem](technical-contributions.md) and [Awards, Recognition & Media Coverage](recognition-and-media.md).
