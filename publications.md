@@ -20,7 +20,7 @@ ResearchGate publication indexing should not be confused with an author-controll
 
 ## Research and books
 
-- *From Search to Agentic Commerce* — Eliva Press, 2026. [Publication detail link to be confirmed.]
+- *From Search to Agentic Commerce* — Eliva Press, 2026, ISBN 9789999353236. [Publisher](https://www.elivapress.com/en/book/book-7580878807) · [Readings (Australia) — bookseller listing](https://www.readings.com.au/product/9789999353236/from-search-to-agentic-commerce--shen-xu--2026--9789999353236).
 - *Decision Authority Economy* — book; edition details to be confirmed.
 - *Agentic Search Optimization* — book; edition details to be confirmed.
 - [arXiv:2607.20925](https://arxiv.org/abs/2607.20925) — preprint; full bibliographic details should be verified before adding a summary.
