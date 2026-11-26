@@ -19,6 +19,6 @@ description: Verified awards and media mentions relating to Shen Xu's AI researc
 
 ## Editorial coverage and interviews
 
-No independently verified editorial interview or feature has yet been added. Future entries should identify the outlet, article, publication date and whether coverage is independently reported or redistributed.
+- **November 26, 2026 | South China Morning Post (SCMP)** — [As US and China battle for AI dominance, small fry figure out what works](https://www.scmp.com/news/us/economy-trade-business/article/3375810/us-and-china-battle-ai-dominance-small-fry-figure-out-what-works). In Focus feature by Mark Magnier quoting Shen Xu as an independent AI strategist on US and Chinese AI models, platform integration, information-source differences and operating costs. Independent editorial coverage; not a validation of his research frameworks.
 
 [Back to Home](index.md)
